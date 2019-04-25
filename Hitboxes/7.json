@@ -1,0 +1,64 @@
+{
+  "HitboxSize": {
+    "X": 118.007378,
+    "Y": 84.19941,
+    "Z": 36.159072
+  },
+  "HitboxOffset": {
+    "X": 13.87566,
+    "Y": 0,
+    "Z": 20.754988
+  },
+  "GroundRotation": {
+    "yaw": 0.0003455361714557288,
+    "pitch": 0.5827005462542978,
+    "roll": 0.0003455361714557288,
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": 0.18,
+    "Y": 0,
+    "Z": 17
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": 12.5,
+      "LocationOffset": {
+        "X": 51.239998,
+        "Y": -25.92,
+        "Z": -5.97
+      },
+      "GroundSuspensionDistance": -1.983565
+    },
+    "FrontRight": {
+      "Radius": 12.5,
+      "LocationOffset": {
+        "X": 51.239998,
+        "Y": 25.92,
+        "Z": -5.97
+      },
+      "GroundSuspensionDistance": -1.983282
+    },
+    "BackLeft": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": -34.290001,
+        "Y": -29.529999,
+        "Z": -4.32
+      },
+      "GroundSuspensionDistance": -1.964067
+    },
+    "BackRight": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": -34.290001,
+        "Y": 29.529999,
+        "Z": -4.32
+      },
+      "GroundSuspensionDistance": -1.963748
+    }
+  },
+  "Cars": [
+    "Mystery Universal Decal"
+  ]
+}

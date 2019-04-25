@@ -1,0 +1,67 @@
+{
+  "Name": "Artemis",
+  "HitboxSize": {
+    "X": "128.82",
+    "Y": "84.67",
+    "Z": "29.39"
+  },
+  "HitboxOffset": {
+    "X": "9.01",
+    "Y": "0.00",
+    "Z": "12.09"
+  },
+  "MeshOffset": {
+    "X": "0.00",
+    "Y": "0.00",
+    "Z": "1.09"
+  },
+  "GroundRotation": {
+    "yaw": "0.00",
+    "pitch": "0.34",
+    "roll": "0.00",
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": "0.12",
+    "Y": "0.00",
+    "Z": "18.64"
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": "12.50",
+      "LocationOffset": {
+        "X": "49.97",
+        "Y": "-27.80",
+        "Z": "-7.83"
+      },
+      "GroundSuspensionDistance": "-1.98"
+    },
+    "FrontRight": {
+      "Radius": "12.50",
+      "LocationOffset": {
+        "X": "49.97",
+        "Y": "27.80",
+        "Z": "-7.83"
+      },
+      "GroundSuspensionDistance": "-1.98"
+    },
+    "BackLeft": {
+      "Radius": "17.00",
+      "LocationOffset": {
+        "X": "-35.43",
+        "Y": "-20.28",
+        "Z": "-3.83"
+      },
+      "GroundSuspensionDistance": "-1.97"
+    },
+    "BackRight": {
+      "Radius": "17.00",
+      "LocationOffset": {
+        "X": "-35.43",
+        "Y": "20.28",
+        "Z": "-3.83"
+      },
+      "GroundSuspensionDistance": "-1.97"
+    }
+  }
+}

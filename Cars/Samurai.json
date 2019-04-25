@@ -1,0 +1,67 @@
+{
+  "Name": "Samurai",
+  "HitboxSize": {
+    "X": "131.49",
+    "Y": "80.52",
+    "Z": "30.30"
+  },
+  "HitboxOffset": {
+    "X": "12.50",
+    "Y": "0.00",
+    "Z": "11.75"
+  },
+  "MeshOffset": {
+    "X": "-0.00",
+    "Y": "-0.00",
+    "Z": "-3.12"
+  },
+  "GroundRotation": {
+    "yaw": "0.00",
+    "pitch": "0.98",
+    "roll": "0.00",
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": "0.34",
+    "Y": "0.00",
+    "Z": "18.33"
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": "13.50",
+      "LocationOffset": {
+        "X": "51.50",
+        "Y": "-26.67",
+        "Z": "-5.95"
+      },
+      "GroundSuspensionDistance": "-1.99"
+    },
+    "FrontRight": {
+      "Radius": "13.50",
+      "LocationOffset": {
+        "X": "51.50",
+        "Y": "26.67",
+        "Z": "-5.95"
+      },
+      "GroundSuspensionDistance": "-1.99"
+    },
+    "BackLeft": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-35.75",
+        "Y": "-35.00",
+        "Z": "-5.91"
+      },
+      "GroundSuspensionDistance": "-1.96"
+    },
+    "BackRight": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-35.75",
+        "Y": "35.00",
+        "Z": "-5.91"
+      },
+      "GroundSuspensionDistance": "-1.96"
+    }
+  }
+}

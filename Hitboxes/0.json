@@ -1,0 +1,84 @@
+{
+  "HitboxSize": {
+    "X": 127.92678,
+    "Y": 83.279954,
+    "Z": 31.3
+  },
+  "HitboxOffset": {
+    "X": 9,
+    "Y": 0,
+    "Z": 15.75
+  },
+  "GroundRotation": {
+    "yaw": 0.00034670212229308815,
+    "pitch": 0.9634975150098084,
+    "roll": 0.00034670212229308815,
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": 0.32,
+    "Y": 0,
+    "Z": 17.049999
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": 12,
+      "LocationOffset": {
+        "X": 50.299999,
+        "Y": -31.1,
+        "Z": -6.2
+      },
+      "GroundSuspensionDistance": -1.987141
+    },
+    "FrontRight": {
+      "Radius": 12,
+      "LocationOffset": {
+        "X": 50.299999,
+        "Y": 31.1,
+        "Z": -6.2
+      },
+      "GroundSuspensionDistance": -1.986799
+    },
+    "BackLeft": {
+      "Radius": 13.5,
+      "LocationOffset": {
+        "X": -34.75,
+        "Y": -33,
+        "Z": -6.1
+      },
+      "GroundSuspensionDistance": -1.957117
+    },
+    "BackRight": {
+      "Radius": 13.5,
+      "LocationOffset": {
+        "X": -34.75,
+        "Y": 33,
+        "Z": -6.1
+      },
+      "GroundSuspensionDistance": -1.956762
+    }
+  },
+  "Cars": [
+    "89 Batmobile",
+    "Aftershock",
+    "Diestro",
+    "Dodge Charger",
+    "Dominus",
+    "Dominus GT",
+    "Gazella GT",
+    "Guardian",
+    "Guardian G1",
+    "Guardian GXT",
+    "Hotshot",
+    "Ice Charger",
+    "Imperator DT5",
+    "Masamune",
+    "Maverick",
+    "Maverick G1",
+    "Maverick GXT",
+    "McLaren",
+    "MR11",
+    "Ripper",
+    "Werewolf"
+  ]
+}

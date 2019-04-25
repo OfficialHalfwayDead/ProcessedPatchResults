@@ -1,0 +1,67 @@
+{
+  "Name": "Tumbler",
+  "HitboxSize": {
+    "X": "118.01",
+    "Y": "84.20",
+    "Z": "36.16"
+  },
+  "HitboxOffset": {
+    "X": "13.88",
+    "Y": "0.00",
+    "Z": "20.75"
+  },
+  "MeshOffset": {
+    "X": "-0.00",
+    "Y": "0.00",
+    "Z": "7.26"
+  },
+  "GroundRotation": {
+    "yaw": "0.00",
+    "pitch": "0.55",
+    "roll": "0.00",
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": "0.18",
+    "Y": "0.00",
+    "Z": "17.01"
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": "12.50",
+      "LocationOffset": {
+        "X": "51.25",
+        "Y": "-25.90",
+        "Z": "-6.00"
+      },
+      "GroundSuspensionDistance": "-1.98"
+    },
+    "FrontRight": {
+      "Radius": "12.50",
+      "LocationOffset": {
+        "X": "51.25",
+        "Y": "25.90",
+        "Z": "-6.00"
+      },
+      "GroundSuspensionDistance": "-1.98"
+    },
+    "BackLeft": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-33.75",
+        "Y": "-29.50",
+        "Z": "-4.30"
+      },
+      "GroundSuspensionDistance": "-1.96"
+    },
+    "BackRight": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-33.75",
+        "Y": "29.50",
+        "Z": "-4.30"
+      },
+      "GroundSuspensionDistance": "-1.96"
+    }
+  }
+}

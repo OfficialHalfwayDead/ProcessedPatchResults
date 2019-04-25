@@ -1,0 +1,85 @@
+{
+  "HitboxSize": {
+    "X": 118.007378,
+    "Y": 84.19941,
+    "Z": 36.159072
+  },
+  "HitboxOffset": {
+    "X": 13.87566,
+    "Y": 0,
+    "Z": 20.754988
+  },
+  "GroundRotation": {
+    "yaw": 0.00034544184445742715,
+    "pitch": 0.5517602626881369,
+    "roll": 0.00034544184445742715,
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": 0.18,
+    "Y": 0,
+    "Z": 17.01
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": 12.5,
+      "LocationOffset": {
+        "X": 51.25,
+        "Y": -25.9,
+        "Z": -6
+      },
+      "GroundSuspensionDistance": -1.976728
+    },
+    "FrontRight": {
+      "Radius": 12.5,
+      "LocationOffset": {
+        "X": 51.25,
+        "Y": 25.9,
+        "Z": -6
+      },
+      "GroundSuspensionDistance": -1.976448
+    },
+    "BackLeft": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": -33.75,
+        "Y": -29.5,
+        "Z": -4.3
+      },
+      "GroundSuspensionDistance": -1.958413
+    },
+    "BackRight": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": -33.75,
+        "Y": 29.5,
+        "Z": -4.3
+      },
+      "GroundSuspensionDistance": -1.958095
+    }
+  },
+  "Cars": [
+    "Backfire",
+    "Bone Shaker",
+    "DeLorean Time Machine",
+    "Fast 4WD",
+    "Gizmo",
+    "Grog",
+    "Jurassic Jeep",
+    "Marauder",
+    "Merc",
+    "Octane",
+    "Octane ZSR",
+    "Proteus",
+    "Road Hog",
+    "Road Hog XL",
+    "Scarab",
+    "Takumi",
+    "Takumi RX-T",
+    "Triton",
+    "Tumbler",
+    "Twinzer",
+    "Vulcan",
+    "Zippy"
+  ]
+}

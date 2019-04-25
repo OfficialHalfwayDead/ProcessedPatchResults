@@ -1,0 +1,67 @@
+{
+  "Name": "Random Certified Item",
+  "HitboxSize": {
+    "X": "118.01",
+    "Y": "84.20",
+    "Z": "36.16"
+  },
+  "HitboxOffset": {
+    "X": "13.88",
+    "Y": "0.00",
+    "Z": "20.75"
+  },
+  "MeshOffset": {
+    "X": "0.00",
+    "Y": "0.00",
+    "Z": "0.00"
+  },
+  "GroundRotation": {
+    "yaw": "0.00",
+    "pitch": "-1.13",
+    "roll": "0.00",
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": "-0.40",
+    "Y": "0.00",
+    "Z": "18.00"
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "51.24",
+        "Y": "-25.92",
+        "Z": "-5.97"
+      },
+      "GroundSuspensionDistance": "-1.95"
+    },
+    "FrontRight": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "51.24",
+        "Y": "25.92",
+        "Z": "-5.97"
+      },
+      "GroundSuspensionDistance": "-1.95"
+    },
+    "BackLeft": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-34.29",
+        "Y": "-29.53",
+        "Z": "-4.32"
+      },
+      "GroundSuspensionDistance": "-1.99"
+    },
+    "BackRight": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-34.29",
+        "Y": "29.53",
+        "Z": "-4.32"
+      },
+      "GroundSuspensionDistance": "-1.99"
+    }
+  }
+}

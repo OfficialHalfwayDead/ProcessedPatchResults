@@ -1,0 +1,71 @@
+{
+  "HitboxSize": {
+    "X": 127.019188,
+    "Y": 82.187866,
+    "Z": 34.159072
+  },
+  "HitboxOffset": {
+    "X": 13.87566,
+    "Y": 0,
+    "Z": 20.754988
+  },
+  "GroundRotation": {
+    "yaw": 0.00034543623752984184,
+    "pitch": 0.5499267350097341,
+    "roll": 0.00034543623752984184,
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": 0.18,
+    "Y": 0,
+    "Z": 17
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": 12.5,
+      "LocationOffset": {
+        "X": 51.25,
+        "Y": -25.9,
+        "Z": -6
+      },
+      "GroundSuspensionDistance": -1.984325
+    },
+    "FrontRight": {
+      "Radius": 12.5,
+      "LocationOffset": {
+        "X": 51.25,
+        "Y": 25.9,
+        "Z": -6
+      },
+      "GroundSuspensionDistance": -1.984045
+    },
+    "BackLeft": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": -34,
+        "Y": -29.5,
+        "Z": -4.3
+      },
+      "GroundSuspensionDistance": -1.966362
+    },
+    "BackRight": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": -34,
+        "Y": 29.5,
+        "Z": -4.3
+      },
+      "GroundSuspensionDistance": -1.966043
+    }
+  },
+  "Cars": [
+    "Endo",
+    "Esper",
+    "Jäger 619 RS",
+    "Nimbus",
+    "Skyline",
+    "Venom",
+    "X-Devil",
+    "X-Devil Mk2"
+  ]
+}

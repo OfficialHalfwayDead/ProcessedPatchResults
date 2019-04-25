@@ -1,0 +1,66 @@
+{
+  "HitboxSize": {
+    "X": 118.007378,
+    "Y": 84.19941,
+    "Z": 36.159072
+  },
+  "HitboxOffset": {
+    "X": 13.87566,
+    "Y": 0,
+    "Z": 20.754988
+  },
+  "GroundRotation": {
+    "yaw": 0.0003404347380121687,
+    "pitch": -1.1297760336073455,
+    "roll": 0.0003404347380121687,
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": -0.4,
+    "Y": 0,
+    "Z": 18
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": 51.239998,
+        "Y": -25.92,
+        "Z": -5.97
+      },
+      "GroundSuspensionDistance": -1.949693
+    },
+    "FrontRight": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": 51.239998,
+        "Y": 25.92,
+        "Z": -5.97
+      },
+      "GroundSuspensionDistance": -1.949416
+    },
+    "BackLeft": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": -34.290001,
+        "Y": -29.529999,
+        "Z": -4.32
+      },
+      "GroundSuspensionDistance": -1.986153
+    },
+    "BackRight": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": -34.290001,
+        "Y": 29.529999,
+        "Z": -4.32
+      },
+      "GroundSuspensionDistance": -1.985837
+    }
+  },
+  "Cars": [
+    "Mystery Item",
+    "Random Certified Item",
+    "Random Painted Item"
+  ]
+}
