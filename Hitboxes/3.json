@@ -18,7 +18,7 @@
   "GroundLocation": {
     "X": 0.18,
     "Y": 0,
-    "Z": 17.01
+    "Z": 17
   },
   "Wheels": {
     "FrontLeft": {
@@ -28,7 +28,7 @@
         "Y": -25.9,
         "Z": -6
       },
-      "GroundSuspensionDistance": -1.976728
+      "GroundSuspensionDistance": -1.988497
     },
     "FrontRight": {
       "Radius": 12.5,
@@ -37,7 +37,7 @@
         "Y": 25.9,
         "Z": -6
       },
-      "GroundSuspensionDistance": -1.976448
+      "GroundSuspensionDistance": -1.988214
     },
     "BackLeft": {
       "Radius": 15,
@@ -46,7 +46,7 @@
         "Y": -29.5,
         "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.958413
+      "GroundSuspensionDistance": -1.969965
     },
     "BackRight": {
       "Radius": 15,
@@ -55,13 +55,12 @@
         "Y": 29.5,
         "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.958095
+      "GroundSuspensionDistance": -1.969643
     }
   },
   "Cars": [
     "Backfire",
     "Bone Shaker",
-    "DeLorean Time Machine",
     "Fast 4WD",
     "Gizmo",
     "Grog",

@@ -34,7 +34,7 @@
         "Y": "-27.80",
         "Z": "-7.83"
       },
-      "GroundSuspensionDistance": "-1.98"
+      "GroundSuspensionDistance": "-1.99"
     },
     "FrontRight": {
       "Radius": "12.50",
@@ -43,7 +43,7 @@
         "Y": "27.80",
         "Z": "-7.83"
       },
-      "GroundSuspensionDistance": "-1.98"
+      "GroundSuspensionDistance": "-1.99"
     },
     "BackLeft": {
       "Radius": "17.00",

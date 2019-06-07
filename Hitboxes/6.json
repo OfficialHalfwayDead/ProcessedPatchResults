@@ -16,7 +16,7 @@
     "degrees": true
   },
   "GroundLocation": {
-    "X": -0.4,
+    "X": -0.38,
     "Y": 0,
     "Z": 18
   },
@@ -28,7 +28,7 @@
         "Y": -25.92,
         "Z": -5.97
       },
-      "GroundSuspensionDistance": -1.949693
+      "GroundSuspensionDistance": -1.951741
     },
     "FrontRight": {
       "Radius": 15,
@@ -37,7 +37,7 @@
         "Y": 25.92,
         "Z": -5.97
       },
-      "GroundSuspensionDistance": -1.949416
+      "GroundSuspensionDistance": -1.951461
     },
     "BackLeft": {
       "Radius": 15,
@@ -46,7 +46,7 @@
         "Y": -29.529999,
         "Z": -4.32
       },
-      "GroundSuspensionDistance": -1.986153
+      "GroundSuspensionDistance": -1.988493
     },
     "BackRight": {
       "Radius": 15,
@@ -55,7 +55,7 @@
         "Y": 29.529999,
         "Z": -4.32
       },
-      "GroundSuspensionDistance": -1.985837
+      "GroundSuspensionDistance": -1.988177
     }
   },
   "Cars": [

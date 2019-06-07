@@ -24,7 +24,7 @@
   "GroundLocation": {
     "X": "0.18",
     "Y": "0.00",
-    "Z": "17.01"
+    "Z": "17.00"
   },
   "Wheels": {
     "FrontLeft": {
@@ -34,7 +34,7 @@
         "Y": "-25.90",
         "Z": "-6.00"
       },
-      "GroundSuspensionDistance": "-1.98"
+      "GroundSuspensionDistance": "-1.99"
     },
     "FrontRight": {
       "Radius": "12.50",
@@ -43,7 +43,7 @@
         "Y": "25.90",
         "Z": "-6.00"
       },
-      "GroundSuspensionDistance": "-1.98"
+      "GroundSuspensionDistance": "-1.99"
     },
     "BackLeft": {
       "Radius": "15.00",
@@ -52,7 +52,7 @@
         "Y": "-29.50",
         "Z": "-4.30"
       },
-      "GroundSuspensionDistance": "-1.96"
+      "GroundSuspensionDistance": "-1.97"
     },
     "BackRight": {
       "Radius": "15.00",
@@ -61,7 +61,7 @@
         "Y": "29.50",
         "Z": "-4.30"
       },
-      "GroundSuspensionDistance": "-1.96"
+      "GroundSuspensionDistance": "-1.97"
     }
   }
 }

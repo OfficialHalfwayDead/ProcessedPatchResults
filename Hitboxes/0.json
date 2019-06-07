@@ -28,7 +28,7 @@
         "Y": -31.1,
         "Z": -6.2
       },
-      "GroundSuspensionDistance": -1.987141
+      "GroundSuspensionDistance": -1.989278
     },
     "FrontRight": {
       "Radius": 12,
@@ -37,7 +37,7 @@
         "Y": 31.1,
         "Z": -6.2
       },
-      "GroundSuspensionDistance": -1.986799
+      "GroundSuspensionDistance": -1.988938
     },
     "BackLeft": {
       "Radius": 13.5,
@@ -46,7 +46,7 @@
         "Y": -33,
         "Z": -6.1
       },
-      "GroundSuspensionDistance": -1.957117
+      "GroundSuspensionDistance": -1.958965
     },
     "BackRight": {
       "Radius": 13.5,
@@ -55,12 +55,13 @@
         "Y": 33,
         "Z": -6.1
       },
-      "GroundSuspensionDistance": -1.956762
+      "GroundSuspensionDistance": -1.95861
     }
   },
   "Cars": [
     "89 Batmobile",
     "Aftershock",
+    "DeLorean Time Machine",
     "Diestro",
     "Dodge Charger",
     "Dominus",
