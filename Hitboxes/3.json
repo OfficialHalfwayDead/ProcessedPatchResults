@@ -1,85 +1,71 @@
 {
   "HitboxSize": {
-    "X": 118.007378,
-    "Y": 84.19941,
-    "Z": 36.159072
+    "X": 128.819778,
+    "Y": 84.670364,
+    "Z": 29.394402
   },
   "HitboxOffset": {
-    "X": 13.87566,
+    "X": 9.008572,
     "Y": 0,
-    "Z": 20.754988
+    "Z": 12.0942
   },
   "GroundRotation": {
-    "yaw": 0.00034544184445742715,
-    "pitch": 0.5517602626881369,
-    "roll": 0.00034544184445742715,
+    "yaw": 0.0003448132722209148,
+    "pitch": 0.344691764258277,
+    "roll": 0.0003448132722209148,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.18,
+    "X": 0.12,
     "Y": 0,
-    "Z": 17
+    "Z": 18.639999
   },
   "Wheels": {
     "FrontLeft": {
       "Radius": 12.5,
       "LocationOffset": {
-        "X": 51.25,
-        "Y": -25.9,
-        "Z": -6
+        "X": 49.970001,
+        "Y": -27.799904,
+        "Z": -7.83
       },
-      "GroundSuspensionDistance": -1.988497
+      "GroundSuspensionDistance": -1.986
     },
     "FrontRight": {
       "Radius": 12.5,
       "LocationOffset": {
-        "X": 51.25,
-        "Y": 25.9,
-        "Z": -6
+        "X": 49.970001,
+        "Y": 27.799904,
+        "Z": -7.83
       },
-      "GroundSuspensionDistance": -1.988214
+      "GroundSuspensionDistance": -1.985699
     },
     "BackLeft": {
-      "Radius": 15,
+      "Radius": 17,
       "LocationOffset": {
-        "X": -33.75,
-        "Y": -29.5,
-        "Z": -4.3
+        "X": -35.43,
+        "Y": -20.280005,
+        "Z": -3.83
       },
-      "GroundSuspensionDistance": -1.969965
+      "GroundSuspensionDistance": -1.972257
     },
     "BackRight": {
-      "Radius": 15,
+      "Radius": 17,
       "LocationOffset": {
-        "X": -33.75,
-        "Y": 29.5,
-        "Z": -4.3
+        "X": -35.43,
+        "Y": 20.280005,
+        "Z": -3.83
       },
-      "GroundSuspensionDistance": -1.969643
+      "GroundSuspensionDistance": -1.972036
     }
   },
   "Cars": [
-    "Backfire",
-    "Bone Shaker",
-    "Fast 4WD",
-    "Fennec",
-    "Gizmo",
-    "Grog",
-    "Jurassic Jeep",
-    "Marauder",
-    "Merc",
-    "Octane",
-    "Octane ZSR",
-    "Proteus",
-    "Road Hog",
-    "Road Hog XL",
-    "Scarab",
-    "Takumi",
-    "Takumi RX-T",
-    "Triton",
-    "Tumbler",
-    "Twinzer",
-    "Vulcan",
-    "Zippy"
+    "Artemis",
+    "Artemis G1",
+    "Artemis GXT",
+    "Centio V17",
+    "Mantis",
+    "Paladin",
+    "Sentinel",
+    "Twin Mill III"
   ]
 }

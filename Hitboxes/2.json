@@ -1,70 +1,91 @@
 {
   "HitboxSize": {
-    "X": 128.819778,
-    "Y": 84.670364,
-    "Z": 29.394402
+    "X": 118.007378,
+    "Y": 84.19941,
+    "Z": 36.159072
   },
   "HitboxOffset": {
-    "X": 9.008572,
+    "X": 13.87566,
     "Y": 0,
-    "Z": 12.0942
+    "Z": 20.754988
   },
   "GroundRotation": {
-    "yaw": 0.0003448132722209148,
-    "pitch": 0.344691764258277,
-    "roll": 0.0003448132722209148,
+    "yaw": 0.00034544184445742715,
+    "pitch": 0.5517602626881369,
+    "roll": 0.00034544184445742715,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.12,
+    "X": 0.18,
     "Y": 0,
-    "Z": 18.639999
+    "Z": 17
   },
   "Wheels": {
     "FrontLeft": {
       "Radius": 12.5,
       "LocationOffset": {
-        "X": 49.970001,
-        "Y": -27.799904,
-        "Z": -7.83
+        "X": 51.25,
+        "Y": -25.9,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.986
+      "GroundSuspensionDistance": -1.988497
     },
     "FrontRight": {
       "Radius": 12.5,
       "LocationOffset": {
-        "X": 49.970001,
-        "Y": 27.799904,
-        "Z": -7.83
+        "X": 51.25,
+        "Y": 25.9,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.985699
+      "GroundSuspensionDistance": -1.988214
     },
     "BackLeft": {
-      "Radius": 17,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -35.43,
-        "Y": -20.280005,
-        "Z": -3.83
+        "X": -33.75,
+        "Y": -29.5,
+        "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.972257
+      "GroundSuspensionDistance": -1.969965
     },
     "BackRight": {
-      "Radius": 17,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -35.43,
-        "Y": 20.280005,
-        "Z": -3.83
+        "X": -33.75,
+        "Y": 29.5,
+        "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.972036
+      "GroundSuspensionDistance": -1.969643
     }
   },
   "Cars": [
-    "Artemis",
-    "Artemis G1",
-    "Artemis GXT",
-    "Centio V17",
-    "Mantis",
-    "Paladin",
-    "Twin Mill III"
+    "Armadillo",
+    "Backfire",
+    "Bone Shaker",
+    "Fast 4WD",
+    "Fennec",
+    "Gizmo",
+    "Grog",
+    "Hogsticker",
+    "Jurassic Jeep",
+    "Marauder",
+    "Mario NSR",
+    "Merc",
+    "Mudcat",
+    "Mudcat G1",
+    "Mudcat GXT",
+    "Octane",
+    "Octane ZSR",
+    "Proteus",
+    "Road Hog",
+    "Road Hog XL",
+    "Scarab",
+    "Takumi",
+    "Takumi RX-T",
+    "Triton",
+    "Tumbler",
+    "Twinzer",
+    "Vulcan",
+    "Zippy"
   ]
 }
