@@ -1,5 +1,5 @@
 {
-  "Name": "Breakout",
+  "Name": "Komodo",
   "HitboxSize": {
     "X": "131.49",
     "Y": "80.52",
@@ -12,8 +12,8 @@
   },
   "MeshOffset": {
     "X": "-0.00",
-    "Y": "0.00",
-    "Z": "0.00"
+    "Y": "-0.00",
+    "Z": "-1.66"
   },
   "GroundRotation": {
     "yaw": "0.00",
