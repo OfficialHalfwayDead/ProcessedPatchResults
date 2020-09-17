@@ -1,67 +1,67 @@
 {
   "Name": "Merc",
   "HitboxSize": {
-    "X": "118.01",
-    "Y": "84.20",
-    "Z": "36.16"
+    "X": "120.72",
+    "Y": "76.71",
+    "Z": "41.66"
   },
   "HitboxOffset": {
-    "X": "13.88",
+    "X": "11.38",
     "Y": "0.00",
-    "Z": "20.75"
+    "Z": "21.50"
   },
   "MeshOffset": {
     "X": "-0.00",
-    "Y": "0.00",
-    "Z": "0.56"
+    "Y": "-0.00",
+    "Z": "-0.95"
   },
   "GroundRotation": {
     "yaw": "0.00",
-    "pitch": "0.55",
+    "pitch": "-0.28",
     "roll": "0.00",
     "degrees": true
   },
   "GroundLocation": {
-    "X": "0.18",
+    "X": "-0.10",
     "Y": "0.00",
-    "Z": "17.00"
+    "Z": "18.78"
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": "12.50",
+      "Radius": "15.00",
       "LocationOffset": {
         "X": "51.25",
         "Y": "-25.90",
         "Z": "-6.00"
       },
-      "GroundSuspensionDistance": "-1.99"
+      "GroundSuspensionDistance": "-1.97"
     },
     "FrontRight": {
-      "Radius": "12.50",
+      "Radius": "15.00",
       "LocationOffset": {
         "X": "51.25",
         "Y": "25.90",
         "Z": "-6.00"
       },
-      "GroundSuspensionDistance": "-1.99"
+      "GroundSuspensionDistance": "-1.97"
     },
     "BackLeft": {
       "Radius": "15.00",
       "LocationOffset": {
         "X": "-33.75",
         "Y": "-29.50",
-        "Z": "-4.30"
+        "Z": "-5.60"
       },
-      "GroundSuspensionDistance": "-1.97"
+      "GroundSuspensionDistance": "-1.98"
     },
     "BackRight": {
       "Radius": "15.00",
       "LocationOffset": {
         "X": "-33.75",
         "Y": "29.50",
-        "Z": "-4.30"
+        "Z": "-5.60"
       },
-      "GroundSuspensionDistance": "-1.97"
+      "GroundSuspensionDistance": "-1.98"
     }
   }
 }

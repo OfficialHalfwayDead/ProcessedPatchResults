@@ -10,34 +10,34 @@
     "Z": 20.754988
   },
   "GroundRotation": {
-    "yaw": 0.0003404347380121687,
-    "pitch": -1.1297760336073455,
-    "roll": 0.0003404347380121687,
+    "yaw": 0.0003455361714557288,
+    "pitch": 0.5827005462542978,
+    "roll": 0.0003455361714557288,
     "degrees": true
   },
   "GroundLocation": {
-    "X": -0.38,
+    "X": 0.19,
     "Y": 0,
-    "Z": 18
+    "Z": 17
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": 15,
+      "Radius": 12.5,
       "LocationOffset": {
         "X": 51.239998,
         "Y": -25.92,
         "Z": -5.97
       },
-      "GroundSuspensionDistance": -1.951741
+      "GroundSuspensionDistance": -1.985955
     },
     "FrontRight": {
-      "Radius": 15,
+      "Radius": 12.5,
       "LocationOffset": {
         "X": 51.239998,
         "Y": 25.92,
         "Z": -5.97
       },
-      "GroundSuspensionDistance": -1.951461
+      "GroundSuspensionDistance": -1.985672
     },
     "BackLeft": {
       "Radius": 15,
@@ -46,7 +46,7 @@
         "Y": -29.529999,
         "Z": -4.32
       },
-      "GroundSuspensionDistance": -1.988493
+      "GroundSuspensionDistance": -1.966168
     },
     "BackRight": {
       "Radius": 15,
@@ -55,12 +55,10 @@
         "Y": 29.529999,
         "Z": -4.32
       },
-      "GroundSuspensionDistance": -1.988177
+      "GroundSuspensionDistance": -1.965846
     }
   },
   "Cars": [
-    "Mystery Item",
-    "Random Certified Item",
-    "Random Painted Item"
+    "Mystery Universal Decal"
   ]
 }

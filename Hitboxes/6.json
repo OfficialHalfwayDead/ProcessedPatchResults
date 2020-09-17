@@ -1,66 +1,64 @@
 {
   "HitboxSize": {
-    "X": 118.007378,
-    "Y": 84.19941,
-    "Z": 36.159072
+    "X": 120.72023,
+    "Y": 76.710312,
+    "Z": 41.659072
   },
   "HitboxOffset": {
-    "X": 13.87566,
+    "X": 11.37566,
     "Y": 0,
-    "Z": 20.754988
+    "Z": 21.504988
   },
   "GroundRotation": {
-    "yaw": 0.0003404347380121687,
-    "pitch": -1.1297760336073455,
-    "roll": 0.0003404347380121687,
+    "yaw": 0.000342945727892732,
+    "pitch": -0.27731182463993514,
+    "roll": 0.000342945727892732,
     "degrees": true
   },
   "GroundLocation": {
-    "X": -0.38,
+    "X": -0.1,
     "Y": 0,
-    "Z": 18
+    "Z": 18.779999
   },
   "Wheels": {
     "FrontLeft": {
       "Radius": 15,
       "LocationOffset": {
-        "X": 51.239998,
-        "Y": -25.92,
-        "Z": -5.97
+        "X": 51.25,
+        "Y": -25.9,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.951741
+      "GroundSuspensionDistance": -1.967514
     },
     "FrontRight": {
       "Radius": 15,
       "LocationOffset": {
-        "X": 51.239998,
-        "Y": 25.92,
-        "Z": -5.97
+        "X": 51.25,
+        "Y": 25.9,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.951461
+      "GroundSuspensionDistance": -1.967233
     },
     "BackLeft": {
       "Radius": 15,
       "LocationOffset": {
-        "X": -34.290001,
-        "Y": -29.529999,
-        "Z": -4.32
+        "X": -33.75,
+        "Y": -29.5,
+        "Z": -5.6
       },
-      "GroundSuspensionDistance": -1.988493
+      "GroundSuspensionDistance": -1.978859
     },
     "BackRight": {
       "Radius": 15,
       "LocationOffset": {
-        "X": -34.290001,
-        "Y": 29.529999,
-        "Z": -4.32
+        "X": -33.75,
+        "Y": 29.5,
+        "Z": -5.6
       },
-      "GroundSuspensionDistance": -1.988177
+      "GroundSuspensionDistance": -1.978543
     }
   },
   "Cars": [
-    "Mystery Item",
-    "Random Certified Item",
-    "Random Painted Item"
+    "Merc"
   ]
 }
