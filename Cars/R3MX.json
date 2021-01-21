@@ -1,0 +1,67 @@
+{
+  "Name": "R3MX",
+  "HitboxSize": {
+    "X": "127.02",
+    "Y": "82.19",
+    "Z": "34.16"
+  },
+  "HitboxOffset": {
+    "X": "13.88",
+    "Y": "0.00",
+    "Z": "20.75"
+  },
+  "MeshOffset": {
+    "X": "-0.00",
+    "Y": "0.00",
+    "Z": "0.52"
+  },
+  "GroundRotation": {
+    "yaw": "0.00",
+    "pitch": "0.55",
+    "roll": "0.00",
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": "0.18",
+    "Y": "0.00",
+    "Z": "17.00"
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": "12.50",
+      "LocationOffset": {
+        "X": "51.25",
+        "Y": "-25.90",
+        "Z": "-6.00"
+      },
+      "GroundSuspensionDistance": "-1.99"
+    },
+    "FrontRight": {
+      "Radius": "12.50",
+      "LocationOffset": {
+        "X": "51.25",
+        "Y": "25.90",
+        "Z": "-6.00"
+      },
+      "GroundSuspensionDistance": "-1.99"
+    },
+    "BackLeft": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-34.00",
+        "Y": "-29.50",
+        "Z": "-4.30"
+      },
+      "GroundSuspensionDistance": "-1.97"
+    },
+    "BackRight": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-34.00",
+        "Y": "29.50",
+        "Z": "-4.30"
+      },
+      "GroundSuspensionDistance": "-1.97"
+    }
+  }
+}
