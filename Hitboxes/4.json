@@ -1,64 +1,78 @@
 {
   "HitboxSize": {
-    "X": 128.819778,
-    "Y": 84.670364,
-    "Z": 29.394402
+    "X": 127.019188,
+    "Y": 82.187866,
+    "Z": 34.159072
   },
   "HitboxOffset": {
-    "X": 9.008572,
+    "X": 13.87566,
     "Y": 0,
-    "Z": 12.0942
+    "Z": 20.754988
   },
   "GroundRotation": {
-    "yaw": 0.0003448132722209148,
-    "pitch": 0.344691764258277,
-    "roll": 0.0003448132722209148,
+    "yaw": 0.00034543623752984184,
+    "pitch": 0.5499267350097341,
+    "roll": 0.00034543623752984184,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.12,
+    "X": 0.18,
     "Y": 0,
-    "Z": 18.639999
+    "Z": 17.01
   },
   "Wheels": {
     "FrontLeft": {
       "Radius": 12.5,
       "LocationOffset": {
-        "X": 49.969997,
-        "Y": -27.799999,
-        "Z": -7.83
+        "X": 51.25,
+        "Y": -25.9,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.986
+      "GroundSuspensionDistance": -1.981241
     },
     "FrontRight": {
       "Radius": 12.5,
       "LocationOffset": {
-        "X": 49.969997,
-        "Y": 27.799999,
-        "Z": -7.83
+        "X": 51.25,
+        "Y": 25.9,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.985699
+      "GroundSuspensionDistance": -1.980957
     },
     "BackLeft": {
-      "Radius": 17,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -35.43,
-        "Y": -20.279999,
-        "Z": -3.83
+        "X": -34,
+        "Y": -29.5,
+        "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.972257
+      "GroundSuspensionDistance": -1.96306
     },
     "BackRight": {
-      "Radius": 17,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -35.43,
-        "Y": 20.279999,
-        "Z": -3.83
+        "X": -34,
+        "Y": 29.5,
+        "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.972036
+      "GroundSuspensionDistance": -1.962738
     }
   },
   "Cars": [
-    "Batmobile"
+    "X-Devil",
+    "Venom",
+    "X-Devil Mk2",
+    "Esper",
+    "Endo",
+    "Jäger 619",
+    "Fast & Furious Nissan Skyline",
+    "Nimbus",
+    "Insidio",
+    "Tygris",
+    "R3MX",
+    "R3MX GXT",
+    "Fast & Furious Pontiac Fiero",
+    "Nissan Silvia",
+    "Nissan Silvia RLE"
   ]
 }

@@ -1,5 +1,6 @@
 {
   "Name": "Random Certified Item",
+  "ID": "3315",
   "HitboxSize": {
     "X": "118.01",
     "Y": "84.20",
@@ -22,7 +23,7 @@
     "degrees": true
   },
   "GroundLocation": {
-    "X": "-0.38",
+    "X": "-0.39",
     "Y": "0.00",
     "Z": "18.00"
   },
@@ -34,7 +35,7 @@
         "Y": "-25.92",
         "Z": "-5.97"
       },
-      "GroundSuspensionDistance": "-1.95"
+      "GroundSuspensionDistance": "-1.96"
     },
     "FrontRight": {
       "Radius": "15.00",
@@ -43,7 +44,7 @@
         "Y": "25.92",
         "Z": "-5.97"
       },
-      "GroundSuspensionDistance": "-1.95"
+      "GroundSuspensionDistance": "-1.96"
     },
     "BackLeft": {
       "Radius": "15.00",

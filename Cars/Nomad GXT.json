@@ -1,0 +1,68 @@
+{
+  "Name": "Nomad GXT",
+  "ID": "7477",
+  "HitboxSize": {
+    "X": "120.72",
+    "Y": "76.71",
+    "Z": "41.66"
+  },
+  "HitboxOffset": {
+    "X": "11.38",
+    "Y": "0.00",
+    "Z": "21.50"
+  },
+  "MeshOffset": {
+    "X": "0.00",
+    "Y": "0.00",
+    "Z": "2.15"
+  },
+  "GroundRotation": {
+    "yaw": "0.00",
+    "pitch": "-0.28",
+    "roll": "0.00",
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": "-0.10",
+    "Y": "0.00",
+    "Z": "18.78"
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "51.25",
+        "Y": "-25.90",
+        "Z": "-6.00"
+      },
+      "GroundSuspensionDistance": "-1.97"
+    },
+    "FrontRight": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "51.25",
+        "Y": "25.90",
+        "Z": "-6.00"
+      },
+      "GroundSuspensionDistance": "-1.97"
+    },
+    "BackLeft": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-33.75",
+        "Y": "-29.50",
+        "Z": "-5.60"
+      },
+      "GroundSuspensionDistance": "-1.98"
+    },
+    "BackRight": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-33.75",
+        "Y": "29.50",
+        "Z": "-5.60"
+      },
+      "GroundSuspensionDistance": "-1.98"
+    }
+  }
+}

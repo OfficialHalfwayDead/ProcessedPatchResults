@@ -1,5 +1,6 @@
 {
   "Name": "Komodo",
+  "ID": "3311",
   "HitboxSize": {
     "X": "131.49",
     "Y": "80.52",
@@ -24,7 +25,7 @@
   "GroundLocation": {
     "X": "0.34",
     "Y": "0.00",
-    "Z": "18.33"
+    "Z": "18.34"
   },
   "Wheels": {
     "FrontLeft": {

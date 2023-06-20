@@ -1,98 +1,104 @@
 {
   "HitboxSize": {
-    "X": 127.92678,
-    "Y": 83.279954,
-    "Z": 31.3
+    "X": 118.007378,
+    "Y": 84.19941,
+    "Z": 36.159072
   },
   "HitboxOffset": {
-    "X": 9,
+    "X": 13.87566,
     "Y": 0,
-    "Z": 15.75
+    "Z": 20.754988
   },
   "GroundRotation": {
-    "yaw": 0.00034670212229308815,
-    "pitch": 0.9634975150098084,
-    "roll": 0.00034670212229308815,
+    "yaw": 0.00034544184445742715,
+    "pitch": 0.5517602626881369,
+    "roll": 0.00034544184445742715,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.32,
+    "X": 0.18,
     "Y": 0,
-    "Z": 17.049999
+    "Z": 17.01
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": 12,
+      "Radius": 12.5,
       "LocationOffset": {
-        "X": 50.299999,
-        "Y": -31.1,
-        "Z": -6.2
+        "X": 51.25,
+        "Y": -25.9,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.989278
+      "GroundSuspensionDistance": -1.982892
     },
     "FrontRight": {
-      "Radius": 12,
+      "Radius": 12.5,
       "LocationOffset": {
-        "X": 50.299999,
-        "Y": 31.1,
-        "Z": -6.2
+        "X": 51.25,
+        "Y": 25.9,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.988938
+      "GroundSuspensionDistance": -1.982611
     },
     "BackLeft": {
-      "Radius": 13.5,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -34.75,
-        "Y": -33,
-        "Z": -6.1
+        "X": -33.75,
+        "Y": -29.5,
+        "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.958965
+      "GroundSuspensionDistance": -1.964359
     },
     "BackRight": {
-      "Radius": 13.5,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -34.75,
-        "Y": 33,
-        "Z": -6.1
+        "X": -33.75,
+        "Y": 29.5,
+        "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.95861
+      "GroundSuspensionDistance": -1.964037
     }
   },
   "Cars": [
-    "89 Batmobile",
-    "Aftershock",
-    "Chikara",
-    "Chikara G1",
-    "Chikara GXT",
-    "DeLorean Time Machine",
-    "Diestro",
-    "Dodge Charger",
-    "Dominus",
-    "Dominus (new)",
-    "Dominus GT",
-    "Ecto-1",
-    "Gazella GT",
-    "Guardian",
-    "Guardian G1",
-    "Guardian GXT",
-    "Hotshot",
-    "Ice Charger",
-    "Imperator DT5",
-    "K.I.T.T.",
-    "Masamune",
-    "Maverick",
-    "Maverick G1",
-    "Maverick GXT",
-    "McLaren",
-    "MR11",
-    "Nemesis",
-    "Peregrine TT",
-    "Ripper",
-    "Ronin",
-    "Ronin G1",
-    "Ronin GXT",
-    "Tyranno",
-    "Tyranno GXT",
-    "Werewolf"
+    "Backfire",
+    "Octane",
+    "Road Hog",
+    "Gizmo",
+    "Takumi",
+    "Scarab",
+    "Zippy",
+    "Grog",
+    "Armadillo",
+    "Hogsticker",
+    "Marauder",
+    "Takumi RX-T",
+    "Road Hog XL",
+    "Proteus",
+    "Triton",
+    "Vulcan",
+    "Octane ZSR",
+    "Bone Shaker",
+    "Mario NSR",
+    "The Dark Knight's Tumbler",
+    "Twinzer",
+    "Jurassic Jeep® Wrangler",
+    "Fast 4WD",
+    "Fennec",
+    "Mudcat",
+    "Mudcat G1",
+    "Mudcat GXT",
+    "Harbinger",
+    "Outlaw",
+    "Harbinger GXT",
+    "Scarab (new)",
+    "Dingo",
+    "007's Aston Martin DB5",
+    "Ford F-150 RLE",
+    "Outlaw GXT",
+    "Jackal",
+    "Ford Mustang Mach-E RLE",
+    "Honda Civic Type R",
+    "Honda Civic Type R-LE",
+    "Volkswagen Golf GTI",
+    "Volkswagen Golf GTI RLE"
   ]
 }

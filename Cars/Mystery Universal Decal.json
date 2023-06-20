@@ -1,5 +1,6 @@
 {
   "Name": "Mystery Universal Decal",
+  "ID": "1412",
   "HitboxSize": {
     "X": "118.01",
     "Y": "84.20",
@@ -24,7 +25,7 @@
   "GroundLocation": {
     "X": "0.19",
     "Y": "0.00",
-    "Z": "17.00"
+    "Z": "17.01"
   },
   "Wheels": {
     "FrontLeft": {
@@ -34,7 +35,7 @@
         "Y": "-25.92",
         "Z": "-5.97"
       },
-      "GroundSuspensionDistance": "-1.99"
+      "GroundSuspensionDistance": "-1.98"
     },
     "FrontRight": {
       "Radius": "12.50",
@@ -43,7 +44,7 @@
         "Y": "25.92",
         "Z": "-5.97"
       },
-      "GroundSuspensionDistance": "-1.99"
+      "GroundSuspensionDistance": "-1.98"
     },
     "BackLeft": {
       "Radius": "15.00",
@@ -52,7 +53,7 @@
         "Y": "-29.53",
         "Z": "-4.32"
       },
-      "GroundSuspensionDistance": "-1.97"
+      "GroundSuspensionDistance": "-1.96"
     },
     "BackRight": {
       "Radius": "15.00",
@@ -61,7 +62,7 @@
         "Y": "29.53",
         "Z": "-4.32"
       },
-      "GroundSuspensionDistance": "-1.97"
+      "GroundSuspensionDistance": "-1.96"
     }
   }
 }

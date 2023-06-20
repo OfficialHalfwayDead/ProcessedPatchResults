@@ -1,0 +1,64 @@
+{
+  "HitboxSize": {
+    "X": 118.007378,
+    "Y": 84.19941,
+    "Z": 36.159072
+  },
+  "HitboxOffset": {
+    "X": 13.87566,
+    "Y": 0,
+    "Z": 15.00499
+  },
+  "GroundRotation": {
+    "yaw": 0.00034542326629859654,
+    "pitch": 0.5455726546223463,
+    "roll": 0.00034542326629859654,
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": 0.2,
+    "Y": 0,
+    "Z": 17.66
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": 12.5,
+      "LocationOffset": {
+        "X": 51.25,
+        "Y": -5,
+        "Z": -6
+      },
+      "GroundSuspensionDistance": -1.32724
+    },
+    "FrontRight": {
+      "Radius": 12.5,
+      "LocationOffset": {
+        "X": 51.25,
+        "Y": 5,
+        "Z": -6
+      },
+      "GroundSuspensionDistance": -1.327187
+    },
+    "BackLeft": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": -34.25,
+        "Y": -29.5,
+        "Z": -4.3
+      },
+      "GroundSuspensionDistance": -1.313226
+    },
+    "BackRight": {
+      "Radius": 15,
+      "LocationOffset": {
+        "X": -34.25,
+        "Y": 29.5,
+        "Z": -4.3
+      },
+      "GroundSuspensionDistance": -1.312904
+    }
+  },
+  "Cars": [
+    "Psyclops"
+  ]
+}

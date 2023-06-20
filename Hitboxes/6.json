@@ -1,74 +1,64 @@
 {
   "HitboxSize": {
-    "X": 127.019188,
-    "Y": 82.187866,
-    "Z": 34.159072
+    "X": 128.819778,
+    "Y": 84.670364,
+    "Z": 29.394402
   },
   "HitboxOffset": {
-    "X": 13.87566,
+    "X": 9.008572,
     "Y": 0,
-    "Z": 20.754988
+    "Z": 12.0942
   },
   "GroundRotation": {
-    "yaw": 0.00034543623752984184,
-    "pitch": 0.5499267350097341,
-    "roll": 0.00034543623752984184,
+    "yaw": 0.0003448132722209148,
+    "pitch": 0.344691764258277,
+    "roll": 0.0003448132722209148,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.18,
+    "X": 0.12,
     "Y": 0,
-    "Z": 17
+    "Z": 18.65
   },
   "Wheels": {
     "FrontLeft": {
       "Radius": 12.5,
       "LocationOffset": {
-        "X": 51.25,
-        "Y": -25.9,
-        "Z": -6
+        "X": 49.969997,
+        "Y": -27.799999,
+        "Z": -7.83
       },
-      "GroundSuspensionDistance": -1.986843
+      "GroundSuspensionDistance": -1.980397
     },
     "FrontRight": {
       "Radius": 12.5,
       "LocationOffset": {
-        "X": 51.25,
-        "Y": 25.9,
-        "Z": -6
+        "X": 49.969997,
+        "Y": 27.799999,
+        "Z": -7.83
       },
-      "GroundSuspensionDistance": -1.986557
+      "GroundSuspensionDistance": -1.980093
     },
     "BackLeft": {
-      "Radius": 15,
+      "Radius": 17,
       "LocationOffset": {
-        "X": -34,
-        "Y": -29.5,
-        "Z": -4.3
+        "X": -35.43,
+        "Y": -20.279999,
+        "Z": -3.83
       },
-      "GroundSuspensionDistance": -1.968663
+      "GroundSuspensionDistance": -1.966654
     },
     "BackRight": {
-      "Radius": 15,
+      "Radius": 17,
       "LocationOffset": {
-        "X": -34,
-        "Y": 29.5,
-        "Z": -4.3
+        "X": -35.43,
+        "Y": 20.279999,
+        "Z": -3.83
       },
-      "GroundSuspensionDistance": -1.968343
+      "GroundSuspensionDistance": -1.966436
     }
   },
   "Cars": [
-    "Endo",
-    "Esper",
-    "Insidio",
-    "Jäger 619 RS",
-    "Nimbus",
-    "R3MX",
-    "R3MX GXT",
-    "Skyline",
-    "Venom",
-    "X-Devil",
-    "X-Devil Mk2"
+    "Batmobile (2016)"
   ]
 }

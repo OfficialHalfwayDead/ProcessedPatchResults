@@ -1,0 +1,68 @@
+{
+  "Name": "Psyclops",
+  "ID": "4782",
+  "HitboxSize": {
+    "X": "118.01",
+    "Y": "84.20",
+    "Z": "36.16"
+  },
+  "HitboxOffset": {
+    "X": "13.88",
+    "Y": "0.00",
+    "Z": "15.00"
+  },
+  "MeshOffset": {
+    "X": "0.00",
+    "Y": "0.00",
+    "Z": "0.00"
+  },
+  "GroundRotation": {
+    "yaw": "0.00",
+    "pitch": "0.55",
+    "roll": "0.00",
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": "0.20",
+    "Y": "0.00",
+    "Z": "17.66"
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": "12.50",
+      "LocationOffset": {
+        "X": "51.25",
+        "Y": "-5.00",
+        "Z": "-6.00"
+      },
+      "GroundSuspensionDistance": "-1.33"
+    },
+    "FrontRight": {
+      "Radius": "12.50",
+      "LocationOffset": {
+        "X": "51.25",
+        "Y": "5.00",
+        "Z": "-6.00"
+      },
+      "GroundSuspensionDistance": "-1.33"
+    },
+    "BackLeft": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-34.25",
+        "Y": "-29.50",
+        "Z": "-4.30"
+      },
+      "GroundSuspensionDistance": "-1.31"
+    },
+    "BackRight": {
+      "Radius": "15.00",
+      "LocationOffset": {
+        "X": "-34.25",
+        "Y": "29.50",
+        "Z": "-4.30"
+      },
+      "GroundSuspensionDistance": "-1.31"
+    }
+  }
+}

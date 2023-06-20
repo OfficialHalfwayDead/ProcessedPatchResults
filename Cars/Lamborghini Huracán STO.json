@@ -1,0 +1,68 @@
+{
+  "Name": "Lamborghini Huracán STO",
+  "ID": "5964",
+  "HitboxSize": {
+    "X": "127.93",
+    "Y": "83.28",
+    "Z": "31.30"
+  },
+  "HitboxOffset": {
+    "X": "9.00",
+    "Y": "0.00",
+    "Z": "15.75"
+  },
+  "MeshOffset": {
+    "X": "0.00",
+    "Y": "0.00",
+    "Z": "0.68"
+  },
+  "GroundRotation": {
+    "yaw": "0.00",
+    "pitch": "0.96",
+    "roll": "0.00",
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": "0.32",
+    "Y": "0.00",
+    "Z": "17.05"
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": "12.00",
+      "LocationOffset": {
+        "X": "50.30",
+        "Y": "-31.10",
+        "Z": "-6.20"
+      },
+      "GroundSuspensionDistance": "-1.99"
+    },
+    "FrontRight": {
+      "Radius": "12.00",
+      "LocationOffset": {
+        "X": "50.30",
+        "Y": "31.10",
+        "Z": "-6.20"
+      },
+      "GroundSuspensionDistance": "-1.99"
+    },
+    "BackLeft": {
+      "Radius": "13.50",
+      "LocationOffset": {
+        "X": "-34.75",
+        "Y": "-33.00",
+        "Z": "-6.10"
+      },
+      "GroundSuspensionDistance": "-1.96"
+    },
+    "BackRight": {
+      "Radius": "13.50",
+      "LocationOffset": {
+        "X": "-34.75",
+        "Y": "33.00",
+        "Z": "-6.10"
+      },
+      "GroundSuspensionDistance": "-1.96"
+    }
+  }
+}
