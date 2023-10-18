@@ -1,0 +1,65 @@
+{
+  "HitboxSize": {
+    "X": 128.819778,
+    "Y": 84.670364,
+    "Z": 29.394402
+  },
+  "HitboxOffset": {
+    "X": 21.508572,
+    "Y": 0,
+    "Z": 12.0942
+  },
+  "GroundRotation": {
+    "yaw": 0.0003448132722209148,
+    "pitch": 0.344691764258277,
+    "roll": 0.0003448132722209148,
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": 0.12,
+    "Y": 0,
+    "Z": 18.65
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": 12.5,
+      "LocationOffset": {
+        "X": 49.970001,
+        "Y": -27.799904,
+        "Z": -7.83
+      },
+      "GroundSuspensionDistance": -1.980397
+    },
+    "FrontRight": {
+      "Radius": 12.5,
+      "LocationOffset": {
+        "X": 49.970001,
+        "Y": 27.799904,
+        "Z": -7.83
+      },
+      "GroundSuspensionDistance": -1.980093
+    },
+    "BackLeft": {
+      "Radius": 17,
+      "LocationOffset": {
+        "X": -35.43,
+        "Y": -20.280005,
+        "Z": -3.83
+      },
+      "GroundSuspensionDistance": -1.966654
+    },
+    "BackRight": {
+      "Radius": 17,
+      "LocationOffset": {
+        "X": -35.43,
+        "Y": 20.280005,
+        "Z": -3.83
+      },
+      "GroundSuspensionDistance": -1.966436
+    }
+  },
+  "Cars": [
+    "Formula 1 2021",
+    "Formula 1 2022"
+  ]
+}
