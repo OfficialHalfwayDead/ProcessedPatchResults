@@ -1,64 +1,64 @@
 {
   "HitboxSize": {
-    "X": 127.92678,
-    "Y": 83.279954,
-    "Z": 31.3
+    "X": 131.492356,
+    "Y": 80.521004,
+    "Z": 30.3
   },
   "HitboxOffset": {
-    "X": 2.25,
+    "X": 4.75,
     "Y": 0,
-    "Z": 15.75
+    "Z": 14.5
   },
   "GroundRotation": {
-    "yaw": 0.00034670212229308815,
-    "pitch": 0.9634975150098084,
-    "roll": 0.00034670212229308815,
+    "yaw": 0.0003467512164037029,
+    "pitch": 0.979540118941586,
+    "roll": 0.0003467512164037029,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.32,
+    "X": 0.34,
     "Y": 0,
-    "Z": 17.049999
+    "Z": 18.34
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": 12,
+      "Radius": 13.5,
       "LocationOffset": {
-        "X": 50.299999,
-        "Y": -31.1,
-        "Z": -6.2
+        "X": 51.5,
+        "Y": -26.67,
+        "Z": -5.95
       },
-      "GroundSuspensionDistance": -1.993674
+      "GroundSuspensionDistance": -1.988013
     },
     "FrontRight": {
-      "Radius": 12,
+      "Radius": 13.5,
       "LocationOffset": {
-        "X": 50.299999,
-        "Y": 31.1,
-        "Z": -6.2
+        "X": 51.5,
+        "Y": 26.67,
+        "Z": -5.95
       },
-      "GroundSuspensionDistance": -1.993334
+      "GroundSuspensionDistance": -1.987721
     },
     "BackLeft": {
-      "Radius": 13.5,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -34.75,
-        "Y": -33,
-        "Z": -6.1
+        "X": -35.75,
+        "Y": -35,
+        "Z": -5.91
       },
-      "GroundSuspensionDistance": -1.963367
+      "GroundSuspensionDistance": -1.95626
     },
     "BackRight": {
-      "Radius": 13.5,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -34.75,
-        "Y": 33,
-        "Z": -6.1
+        "X": -35.75,
+        "Y": 35,
+        "Z": -5.91
       },
-      "GroundSuspensionDistance": -1.963006
+      "GroundSuspensionDistance": -1.955876
     }
   },
   "Cars": [
-    "Lightning McQueen"
+    "Ace"
   ]
 }

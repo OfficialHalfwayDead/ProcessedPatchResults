@@ -5,9 +5,9 @@
     "Z": 30.3
   },
   "HitboxOffset": {
-    "X": 4.75,
+    "X": 9.25,
     "Y": 0,
-    "Z": 14.5
+    "Z": 11.75
   },
   "GroundRotation": {
     "yaw": 0.0003467512164037029,
@@ -28,7 +28,7 @@
         "Y": -26.67,
         "Z": -5.95
       },
-      "GroundSuspensionDistance": -1.988013
+      "GroundSuspensionDistance": -1.98801
     },
     "FrontRight": {
       "Radius": 13.5,
@@ -37,7 +37,7 @@
         "Y": 26.67,
         "Z": -5.95
       },
-      "GroundSuspensionDistance": -1.987721
+      "GroundSuspensionDistance": -1.987718
     },
     "BackLeft": {
       "Radius": 15,
@@ -46,7 +46,7 @@
         "Y": -35,
         "Z": -5.91
       },
-      "GroundSuspensionDistance": -1.95626
+      "GroundSuspensionDistance": -1.956257
     },
     "BackRight": {
       "Radius": 15,
@@ -55,10 +55,10 @@
         "Y": 35,
         "Z": -5.91
       },
-      "GroundSuspensionDistance": -1.955876
+      "GroundSuspensionDistance": -1.955882
     }
   },
   "Cars": [
-    "Ace"
+    "Fast & Furious Mazda RX-7"
   ]
 }
