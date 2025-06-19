@@ -10,66 +10,55 @@
     "Z": 20.754988
   },
   "GroundRotation": {
-    "yaw": 0.0003404347380121687,
-    "pitch": -1.1297760336073455,
-    "roll": 0.0003404347380121687,
+    "yaw": 0.0003455361714557288,
+    "pitch": 0.5827005462542978,
+    "roll": 0.0003455361714557288,
     "degrees": true
   },
   "GroundLocation": {
-    "X": -0.39,
+    "X": 0.19,
     "Y": 0,
-    "Z": 18
+    "Z": 17.01
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": 15,
+      "Radius": 12.5,
       "LocationOffset": {
-        "X": 51.239998,
+        "X": 51.240002,
         "Y": -25.92,
         "Z": -5.97
       },
-      "GroundSuspensionDistance": -1.956136
+      "GroundSuspensionDistance": -1.980349
     },
     "FrontRight": {
-      "Radius": 15,
+      "Radius": 12.5,
       "LocationOffset": {
-        "X": 51.239998,
+        "X": 51.240002,
         "Y": 25.92,
         "Z": -5.97
       },
-      "GroundSuspensionDistance": -1.955859
+      "GroundSuspensionDistance": -1.980069
     },
     "BackLeft": {
       "Radius": 15,
       "LocationOffset": {
         "X": -34.290001,
-        "Y": -29.529999,
+        "Y": -29.530001,
         "Z": -4.32
       },
-      "GroundSuspensionDistance": -1.992889
+      "GroundSuspensionDistance": -1.960562
     },
     "BackRight": {
       "Radius": 15,
       "LocationOffset": {
         "X": -34.290001,
-        "Y": 29.529999,
+        "Y": 29.530001,
         "Z": -4.32
       },
-      "GroundSuspensionDistance": -1.99257
+      "GroundSuspensionDistance": -1.96024
     }
   },
   "Cars": [
-    "Mystery Item",
-    "Random Certified Item",
-    "Random Painted Item",
-    "Black Market Drop",
-    "Exotic Drop",
-    "Import Drop",
-    "Rare Drop",
-    "Special Drop",
-    "Sport Drop",
-    "Uncommon Drop",
-    "Deluxe Drop",
-    "Very Rare Drop"
+    "Mystery Universal Decal"
   ]
 }

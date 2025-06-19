@@ -7,58 +7,66 @@
   "HitboxOffset": {
     "X": 13.87566,
     "Y": 0,
-    "Z": 15.00499
+    "Z": 20.754988
   },
   "GroundRotation": {
-    "yaw": 0.00034542326629859654,
-    "pitch": 0.5455726546223463,
-    "roll": 0.00034542326629859654,
+    "yaw": 0.0003404347380121687,
+    "pitch": -1.1297760336073455,
+    "roll": 0.0003404347380121687,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.2,
+    "X": -0.39,
     "Y": 0,
-    "Z": 17.66
+    "Z": 18
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": 12.5,
+      "Radius": 15,
       "LocationOffset": {
-        "X": 51.25,
-        "Y": -5,
-        "Z": -6
+        "X": 51.240002,
+        "Y": -25.92,
+        "Z": -5.97
       },
-      "GroundSuspensionDistance": -1.32724
+      "GroundSuspensionDistance": -1.956136
     },
     "FrontRight": {
-      "Radius": 12.5,
+      "Radius": 15,
       "LocationOffset": {
-        "X": 51.25,
-        "Y": 5,
-        "Z": -6
+        "X": 51.240002,
+        "Y": 25.92,
+        "Z": -5.97
       },
-      "GroundSuspensionDistance": -1.327187
+      "GroundSuspensionDistance": -1.955859
     },
     "BackLeft": {
       "Radius": 15,
       "LocationOffset": {
-        "X": -34.25,
-        "Y": -29.5,
-        "Z": -4.3
+        "X": -34.290001,
+        "Y": -29.530001,
+        "Z": -4.32
       },
-      "GroundSuspensionDistance": -1.313226
+      "GroundSuspensionDistance": -1.992889
     },
     "BackRight": {
       "Radius": 15,
       "LocationOffset": {
-        "X": -34.25,
-        "Y": 29.5,
-        "Z": -4.3
+        "X": -34.290001,
+        "Y": 29.530001,
+        "Z": -4.32
       },
-      "GroundSuspensionDistance": -1.312904
+      "GroundSuspensionDistance": -1.99257
     }
   },
   "Cars": [
-    "Psyclops"
+    "Mystery Item",
+    "Random Certified Item",
+    "Random Painted Item",
+    "Black Market Drop",
+    "Exotic Drop",
+    "Import Drop",
+    "Special Drop",
+    "Sport Drop",
+    "Deluxe Drop"
   ]
 }

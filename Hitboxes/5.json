@@ -1,123 +1,85 @@
 {
   "HitboxSize": {
-    "X": 127.92678,
-    "Y": 83.279954,
-    "Z": 31.3
+    "X": 127.019188,
+    "Y": 82.187866,
+    "Z": 34.159072
   },
   "HitboxOffset": {
-    "X": 9,
+    "X": 13.87566,
     "Y": 0,
-    "Z": 15.75
+    "Z": 20.754988
   },
   "GroundRotation": {
-    "yaw": 0.00034670212229308815,
-    "pitch": 0.9634975150098084,
-    "roll": 0.00034670212229308815,
+    "yaw": 0.00034543623752984184,
+    "pitch": 0.5499267350097341,
+    "roll": 0.00034543623752984184,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.32,
+    "X": 0.18,
     "Y": 0,
-    "Z": 17.049999
+    "Z": 17.01
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": 12,
+      "Radius": 12.5,
       "LocationOffset": {
-        "X": 50.299999,
-        "Y": -31.1,
-        "Z": -6.2
+        "X": 51.25,
+        "Y": -25.9,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.993674
+      "GroundSuspensionDistance": -1.981241
     },
     "FrontRight": {
-      "Radius": 12,
+      "Radius": 12.5,
       "LocationOffset": {
-        "X": 50.299999,
-        "Y": 31.1,
-        "Z": -6.2
+        "X": 51.25,
+        "Y": 25.9,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.993334
+      "GroundSuspensionDistance": -1.980957
     },
     "BackLeft": {
-      "Radius": 13.5,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -34.75,
-        "Y": -33,
-        "Z": -6.1
+        "X": -34,
+        "Y": -29.5,
+        "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.963367
+      "GroundSuspensionDistance": -1.96306
     },
     "BackRight": {
-      "Radius": 13.5,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -34.75,
-        "Y": 33,
-        "Z": -6.1
+        "X": -34,
+        "Y": 29.5,
+        "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.963006
+      "GroundSuspensionDistance": -1.962738
     }
   },
   "Cars": [
-    "Hotshot",
-    "Dominus",
-    "DeLorean Time Machine",
-    "Ripper",
-    "Dominus GT",
-    "Masamune",
-    "Aftershock",
-    "Ice Charger",
-    "Nemesis",
-    "Imperator DT5",
-    "Werewolf",
-    "Fast & Furious Dodge Charger",
-    "Batmobile (1989)",
-    "MR11",
-    "Gazella GT",
-    "Maverick",
-    "Maverick G1",
-    "Maverick GXT",
-    "McLaren 570S",
-    "Diestro",
-    "Guardian GXT",
-    "Guardian",
-    "Guardian G1",
-    "K.I.T.T.",
-    "Ecto-1",
-    "Chikara GXT",
-    "Chikara",
-    "Chikara G1",
-    "Ronin GXT",
-    "Dominus (new)",
-    "Peregrine TT",
-    "Ronin",
-    "Ronin G1",
-    "NASCAR Ford Mustang",
-    "NASCAR Toyota Camry",
-    "NASCAR Chevrolet Camaro",
-    "Tyranno",
-    "Lamborghini Huracán STO",
-    "Tyranno GXT",
-    "Masamune (New)",
-    "BMW M240i",
-    "McLaren 765LT",
-    "007's Aston Martin Valhalla",
-    "Ford Mustang Shelby GT350R RLE",
-    "Mamba",
-    "NASCAR Next Gen Chevrolet Camaro",
-    "NASCAR Next Gen Ford Mustang",
-    "NASCAR Next Gen Toyota Camry",
-    "007's Aston Martin DBS",
-    "Batmobile (2022)",
-    "Lamborghini Countach LPI 800-4",
-    "Maestro",
-    "Nissan Z Performance",
-    "Ferrari 296 GTB",
-    "Admiral",
-    "Fast & Furious Dodge Charger SRT Hellcat",
-    "Porsche 911 Turbo",
-    "Porsche 911 Turbo RLE",
-    "Bumblebee",
-    "Scorpion"
+    "X-Devil",
+    "Venom",
+    "X-Devil Mk2",
+    "Esper",
+    "Endo",
+    "Jäger 619",
+    "Fast & Furious Nissan Skyline",
+    "Nimbus",
+    "Insidio",
+    "Tygris",
+    "R3MX",
+    "R3MX GXT",
+    "Fast & Furious Pontiac Fiero",
+    "Tesla Cybertruck",
+    "Nissan Silvia",
+    "Nissan Silvia RLE",
+    "Primo",
+    "Beskar",
+    "Nissan Skyline GT-R (R32)",
+    "Void Burn",
+    "Lamborghini Urus SE",
+    "Ram 1500 RHO"
   ]
 }

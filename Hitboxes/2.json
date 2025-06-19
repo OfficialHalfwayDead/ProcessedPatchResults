@@ -1,72 +1,89 @@
 {
   "HitboxSize": {
-    "X": 128.819778,
-    "Y": 84.670364,
-    "Z": 29.394402
+    "X": 131.492356,
+    "Y": 80.521004,
+    "Z": 30.3
   },
   "HitboxOffset": {
-    "X": 9.008572,
+    "X": 12.5,
     "Y": 0,
-    "Z": 12.0942
+    "Z": 11.75
   },
   "GroundRotation": {
-    "yaw": 0.0003448132722209148,
-    "pitch": 0.344691764258277,
-    "roll": 0.0003448132722209148,
+    "yaw": 0.0003467512164037029,
+    "pitch": 0.979540118941586,
+    "roll": 0.0003467512164037029,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.12,
+    "X": 0.34,
     "Y": 0,
-    "Z": 18.65
+    "Z": 18.34
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": 12.5,
+      "Radius": 13.5,
       "LocationOffset": {
-        "X": 49.970001,
-        "Y": -27.799904,
-        "Z": -7.83
+        "X": 51.5,
+        "Y": -26.67,
+        "Z": -5.95
       },
-      "GroundSuspensionDistance": -1.980397
+      "GroundSuspensionDistance": -1.98801
     },
     "FrontRight": {
-      "Radius": 12.5,
+      "Radius": 13.5,
       "LocationOffset": {
-        "X": 49.970001,
-        "Y": 27.799904,
-        "Z": -7.83
+        "X": 51.5,
+        "Y": 26.67,
+        "Z": -5.95
       },
-      "GroundSuspensionDistance": -1.980093
+      "GroundSuspensionDistance": -1.987718
     },
     "BackLeft": {
-      "Radius": 17,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -35.43,
-        "Y": -20.280005,
-        "Z": -3.83
+        "X": -35.75,
+        "Y": -35,
+        "Z": -5.91
       },
-      "GroundSuspensionDistance": -1.966654
+      "GroundSuspensionDistance": -1.956257
     },
     "BackRight": {
-      "Radius": 17,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -35.43,
-        "Y": 20.280005,
-        "Z": -3.83
+        "X": -35.75,
+        "Y": 35,
+        "Z": -5.91
       },
-      "GroundSuspensionDistance": -1.966436
+      "GroundSuspensionDistance": -1.955879
     }
   },
   "Cars": [
-    "Paladin",
-    "Twin Mill III",
-    "Mantis",
-    "Centio",
-    "Artemis G1",
-    "Artemis",
-    "Artemis GXT",
-    "Sentinel",
-    "Bugatti Centodieci"
+    "Breakout",
+    "Breakout Type-S",
+    "Samurai",
+    "Animus GP",
+    "Samus's Gunship",
+    "Cyclone",
+    "Komodo",
+    "Nexus",
+    "Nexus SC",
+    "Redline",
+    "Whiplash",
+    "Fuse",
+    "Fast & Furious Mazda RX-7",
+    "Mako",
+    "Emperor",
+    "Emperor II",
+    "Ace",
+    "Diesel",
+    "The Incredibile",
+    "1966 Cadillac DeVille",
+    "Quadra Turbo-R",
+    "McLaren Senna",
+    "Revolver",
+    "Azura",
+    "Breakout X",
+    "Megastar"
   ]
 }

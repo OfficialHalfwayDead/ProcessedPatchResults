@@ -1,104 +1,64 @@
 {
   "HitboxSize": {
-    "X": 118.007378,
-    "Y": 84.19941,
-    "Z": 36.159072
+    "X": 0,
+    "Y": 0,
+    "Z": 0
   },
   "HitboxOffset": {
-    "X": 13.87566,
+    "X": 0,
     "Y": 0,
-    "Z": 20.754988
+    "Z": 0
   },
   "GroundRotation": {
-    "yaw": 0.00034544184445742715,
-    "pitch": 0.5517602626881369,
-    "roll": 0.00034544184445742715,
+    "yaw": 0,
+    "pitch": 0,
+    "roll": 0,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.18,
+    "X": 0,
     "Y": 0,
-    "Z": 17.01
+    "Z": 0
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": 12.5,
+      "Radius": 0,
       "LocationOffset": {
-        "X": 51.25,
-        "Y": -25.9,
-        "Z": -6
+        "X": 0,
+        "Y": 0,
+        "Z": 0
       },
-      "GroundSuspensionDistance": -1.982892
+      "GroundSuspensionDistance": 0
     },
     "FrontRight": {
-      "Radius": 12.5,
+      "Radius": 0,
       "LocationOffset": {
-        "X": 51.25,
-        "Y": 25.9,
-        "Z": -6
+        "X": 0,
+        "Y": 0,
+        "Z": 0
       },
-      "GroundSuspensionDistance": -1.982611
+      "GroundSuspensionDistance": 0
     },
     "BackLeft": {
-      "Radius": 15,
+      "Radius": 0,
       "LocationOffset": {
-        "X": -33.75,
-        "Y": -29.5,
-        "Z": -4.3
+        "X": 0,
+        "Y": 0,
+        "Z": 0
       },
-      "GroundSuspensionDistance": -1.964359
+      "GroundSuspensionDistance": 0
     },
     "BackRight": {
-      "Radius": 15,
+      "Radius": 0,
       "LocationOffset": {
-        "X": -33.75,
-        "Y": 29.5,
-        "Z": -4.3
+        "X": 0,
+        "Y": 0,
+        "Z": 0
       },
-      "GroundSuspensionDistance": -1.964037
+      "GroundSuspensionDistance": 0
     }
   },
   "Cars": [
-    "Backfire",
-    "Octane",
-    "Road Hog",
-    "Gizmo",
-    "Takumi",
-    "Scarab",
-    "Zippy",
-    "Grog",
-    "Armadillo",
-    "Hogsticker",
-    "Marauder",
-    "Takumi RX-T",
-    "Road Hog XL",
-    "Proteus",
-    "Triton",
-    "Vulcan",
-    "Octane ZSR",
-    "Bone Shaker",
-    "Mario NSR",
-    "The Dark Knight's Tumbler",
-    "Twinzer",
-    "Jurassic Jeep® Wrangler",
-    "Fast 4WD",
-    "Fennec",
-    "Mudcat",
-    "Mudcat G1",
-    "Mudcat GXT",
-    "Harbinger",
-    "Outlaw",
-    "Harbinger GXT",
-    "Scarab (new)",
-    "Dingo",
-    "007's Aston Martin DB5",
-    "Ford F-150 RLE",
-    "Outlaw GXT",
-    "Jackal",
-    "Ford Mustang Mach-E RLE",
-    "Honda Civic Type R",
-    "Honda Civic Type R-LE",
-    "Volkswagen Golf GTI",
-    "Volkswagen Golf GTI RLE"
+    "Dom"
   ]
 }

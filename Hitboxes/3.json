@@ -1,69 +1,74 @@
 {
   "HitboxSize": {
-    "X": 120.72023,
-    "Y": 76.710312,
-    "Z": 41.659072
+    "X": 128.819778,
+    "Y": 84.670364,
+    "Z": 29.394402
   },
   "HitboxOffset": {
-    "X": 11.37566,
+    "X": 9.008572,
     "Y": 0,
-    "Z": 21.504988
+    "Z": 12.0942
   },
   "GroundRotation": {
-    "yaw": 0.000342945727892732,
-    "pitch": -0.27731182463993514,
-    "roll": 0.000342945727892732,
+    "yaw": 0.0003448132722209148,
+    "pitch": 0.344691764258277,
+    "roll": 0.0003448132722209148,
     "degrees": true
   },
   "GroundLocation": {
-    "X": -0.1,
+    "X": 0.12,
     "Y": 0,
-    "Z": 18.779999
+    "Z": 18.65
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": 15,
+      "Radius": 12.5,
       "LocationOffset": {
-        "X": 51.25,
-        "Y": -25.9,
-        "Z": -6
+        "X": 49.970001,
+        "Y": -27.799904,
+        "Z": -7.83
       },
-      "GroundSuspensionDistance": -1.971912
+      "GroundSuspensionDistance": -1.980397
     },
     "FrontRight": {
-      "Radius": 15,
+      "Radius": 12.5,
       "LocationOffset": {
-        "X": 51.25,
-        "Y": 25.9,
-        "Z": -6
+        "X": 49.970001,
+        "Y": 27.799904,
+        "Z": -7.83
       },
-      "GroundSuspensionDistance": -1.971632
+      "GroundSuspensionDistance": -1.980096
     },
     "BackLeft": {
-      "Radius": 15,
+      "Radius": 17,
       "LocationOffset": {
-        "X": -33.75,
-        "Y": -29.5,
-        "Z": -5.6
+        "X": -35.43,
+        "Y": -20.280005,
+        "Z": -3.83
       },
-      "GroundSuspensionDistance": -1.983258
+      "GroundSuspensionDistance": -1.966651
     },
     "BackRight": {
-      "Radius": 15,
+      "Radius": 17,
       "LocationOffset": {
-        "X": -33.75,
-        "Y": 29.5,
-        "Z": -5.6
+        "X": -35.43,
+        "Y": 20.280005,
+        "Z": -3.83
       },
-      "GroundSuspensionDistance": -1.982942
+      "GroundSuspensionDistance": -1.966433
     }
   },
   "Cars": [
-    "Sweet Tooth",
-    "Merc",
-    "Battle Bus",
-    "Nomad",
-    "Nomad GXT",
-    "Ford Bronco Raptor RLE"
+    "Paladin",
+    "Twin Mill III",
+    "Mantis",
+    "Centio",
+    "Artemis G1",
+    "Artemis",
+    "Artemis GXT",
+    "Sentinel",
+    "Formula 1 2021",
+    "Formula 1 2022",
+    "Bugatti Centodieci"
   ]
 }

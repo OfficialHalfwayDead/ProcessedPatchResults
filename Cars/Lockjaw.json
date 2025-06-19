@@ -1,66 +1,66 @@
 {
-  "Name": "Ace",
-  "ID": "8669",
+  "Name": "Lockjaw",
+  "ID": "10694",
   "HitboxSize": {
-    "X": "131.49",
-    "Y": "80.52",
-    "Z": "30.30"
+    "X": "127.93",
+    "Y": "83.28",
+    "Z": "31.30"
   },
   "HitboxOffset": {
-    "X": "12.50",
+    "X": "9.00",
     "Y": "0.00",
-    "Z": "11.75"
+    "Z": "15.75"
   },
   "MeshOffset": {
-    "X": "7.75",
-    "Y": "-0.00",
-    "Z": "-2.30"
+    "X": "0.00",
+    "Y": "0.00",
+    "Z": "2.57"
   },
   "GroundRotation": {
     "yaw": "0.00",
-    "pitch": "0.98",
+    "pitch": "0.96",
     "roll": "0.00",
     "degrees": true
   },
   "GroundLocation": {
-    "X": "0.34",
+    "X": "0.32",
     "Y": "0.00",
-    "Z": "18.34"
+    "Z": "17.05"
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": "13.50",
+      "Radius": "12.00",
       "LocationOffset": {
-        "X": "51.50",
-        "Y": "-26.67",
-        "Z": "-5.95"
+        "X": "50.30",
+        "Y": "-31.10",
+        "Z": "-6.20"
       },
       "GroundSuspensionDistance": "-1.99"
     },
     "FrontRight": {
-      "Radius": "13.50",
+      "Radius": "12.00",
       "LocationOffset": {
-        "X": "51.50",
-        "Y": "26.67",
-        "Z": "-5.95"
+        "X": "50.30",
+        "Y": "31.10",
+        "Z": "-6.20"
       },
       "GroundSuspensionDistance": "-1.99"
     },
     "BackLeft": {
-      "Radius": "15.00",
+      "Radius": "13.50",
       "LocationOffset": {
-        "X": "-35.75",
-        "Y": "-35.00",
-        "Z": "-5.91"
+        "X": "-34.75",
+        "Y": "-33.00",
+        "Z": "-6.10"
       },
       "GroundSuspensionDistance": "-1.96"
     },
     "BackRight": {
-      "Radius": "15.00",
+      "Radius": "13.50",
       "LocationOffset": {
-        "X": "-35.75",
-        "Y": "35.00",
-        "Z": "-5.91"
+        "X": "-34.75",
+        "Y": "33.00",
+        "Z": "-6.10"
       },
       "GroundSuspensionDistance": "-1.96"
     }

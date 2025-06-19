@@ -1,64 +1,130 @@
 {
   "HitboxSize": {
-    "X": 128.819778,
-    "Y": 84.670364,
-    "Z": 29.394402
+    "X": 127.92678,
+    "Y": 83.279954,
+    "Z": 31.3
   },
   "HitboxOffset": {
-    "X": 9.008572,
+    "X": 9,
     "Y": 0,
-    "Z": 12.0942
+    "Z": 15.75
   },
   "GroundRotation": {
-    "yaw": 0.0003448132722209148,
-    "pitch": 0.344691764258277,
-    "roll": 0.0003448132722209148,
+    "yaw": 0.00034670212229308815,
+    "pitch": 0.9634975150098084,
+    "roll": 0.00034670212229308815,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.12,
+    "X": 0.32,
     "Y": 0,
-    "Z": 18.65
+    "Z": 17.049999
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": 12.5,
+      "Radius": 12,
       "LocationOffset": {
-        "X": 49.969997,
-        "Y": -27.799999,
-        "Z": -7.83
+        "X": 50.299999,
+        "Y": -31.1,
+        "Z": -6.2
       },
-      "GroundSuspensionDistance": -1.980397
+      "GroundSuspensionDistance": -1.993674
     },
     "FrontRight": {
-      "Radius": 12.5,
+      "Radius": 12,
       "LocationOffset": {
-        "X": 49.969997,
-        "Y": 27.799999,
-        "Z": -7.83
+        "X": 50.299999,
+        "Y": 31.1,
+        "Z": -6.2
       },
-      "GroundSuspensionDistance": -1.980093
+      "GroundSuspensionDistance": -1.993334
     },
     "BackLeft": {
-      "Radius": 17,
+      "Radius": 13.5,
       "LocationOffset": {
-        "X": -35.43,
-        "Y": -20.279999,
-        "Z": -3.83
+        "X": -34.75,
+        "Y": -33,
+        "Z": -6.1
       },
-      "GroundSuspensionDistance": -1.966654
+      "GroundSuspensionDistance": -1.963367
     },
     "BackRight": {
-      "Radius": 17,
+      "Radius": 13.5,
       "LocationOffset": {
-        "X": -35.43,
-        "Y": 20.279999,
-        "Z": -3.83
+        "X": -34.75,
+        "Y": 33,
+        "Z": -6.1
       },
-      "GroundSuspensionDistance": -1.966436
+      "GroundSuspensionDistance": -1.963006
     }
   },
   "Cars": [
-    "Batmobile (2016)"
+    "Hotshot",
+    "Dominus",
+    "DeLorean Time Machine",
+    "Ripper",
+    "Dominus GT",
+    "Masamune",
+    "Aftershock",
+    "Ice Charger",
+    "Nemesis",
+    "Imperator DT5",
+    "Werewolf",
+    "Fast & Furious Dodge Charger",
+    "Batmobile (1989)",
+    "MR11",
+    "Gazella GT",
+    "Maverick",
+    "Maverick G1",
+    "Maverick GXT",
+    "McLaren 570S",
+    "Diestro",
+    "Guardian GXT",
+    "Guardian",
+    "Guardian G1",
+    "K.I.T.T.",
+    "Ecto-1",
+    "Chikara GXT",
+    "Chikara",
+    "Chikara G1",
+    "Ronin GXT",
+    "Dominus (new)",
+    "Peregrine TT",
+    "Ronin",
+    "Ronin G1",
+    "NASCAR Ford Mustang",
+    "NASCAR Toyota Camry",
+    "NASCAR Chevrolet Camaro",
+    "Tyranno",
+    "Lamborghini Huracán STO",
+    "Tyranno GXT",
+    "Masamune (New)",
+    "BMW M240i",
+    "McLaren 765LT",
+    "007's Aston Martin Valhalla",
+    "Ford Mustang Shelby GT350R RLE",
+    "Mamba",
+    "NASCAR Next Gen Chevrolet Camaro",
+    "NASCAR Next Gen Ford Mustang",
+    "NASCAR Next Gen Toyota Camry",
+    "007's Aston Martin DBS",
+    "Batmobile (2022)",
+    "Lamborghini Countach LPI 800-4",
+    "Maestro",
+    "Nissan Z Performance",
+    "Ferrari 296 GTB",
+    "Admiral",
+    "Fast & Furious Dodge Charger SRT Hellcat",
+    "Porsche 911 Turbo",
+    "Porsche 911 Turbo RLE",
+    "Bumblebee",
+    "Lightning McQueen",
+    "Scorpion",
+    "Nissan Fairlady Z",
+    "Nissan Fairlady Z RLE",
+    "Lockjaw",
+    "Porsche 911 GT3 RS",
+    "Dodge Charger Daytona Scat Pack",
+    "Ford Mustang Shelby GT500"
   ]
 }

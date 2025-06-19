@@ -1,65 +1,64 @@
 {
   "HitboxSize": {
-    "X": 128.819778,
-    "Y": 84.670364,
-    "Z": 29.394402
+    "X": 118.007378,
+    "Y": 84.19941,
+    "Z": 36.159072
   },
   "HitboxOffset": {
-    "X": 21.508572,
+    "X": 13.87566,
     "Y": 0,
-    "Z": 12.0942
+    "Z": 15.00499
   },
   "GroundRotation": {
-    "yaw": 0.0003448132722209148,
-    "pitch": 0.344691764258277,
-    "roll": 0.0003448132722209148,
+    "yaw": 0.00034542326629859654,
+    "pitch": 0.5455726546223463,
+    "roll": 0.00034542326629859654,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.12,
+    "X": 0.2,
     "Y": 0,
-    "Z": 18.65
+    "Z": 17.66
   },
   "Wheels": {
     "FrontLeft": {
       "Radius": 12.5,
       "LocationOffset": {
-        "X": 49.970001,
-        "Y": -27.799904,
-        "Z": -7.83
+        "X": 51.25,
+        "Y": -5,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.980397
+      "GroundSuspensionDistance": -1.32724
     },
     "FrontRight": {
       "Radius": 12.5,
       "LocationOffset": {
-        "X": 49.970001,
-        "Y": 27.799904,
-        "Z": -7.83
+        "X": 51.25,
+        "Y": 5,
+        "Z": -6
       },
-      "GroundSuspensionDistance": -1.980093
+      "GroundSuspensionDistance": -1.327187
     },
     "BackLeft": {
-      "Radius": 17,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -35.43,
-        "Y": -20.280005,
-        "Z": -3.83
+        "X": -34.25,
+        "Y": -29.5,
+        "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.966654
+      "GroundSuspensionDistance": -1.313226
     },
     "BackRight": {
-      "Radius": 17,
+      "Radius": 15,
       "LocationOffset": {
-        "X": -35.43,
-        "Y": 20.280005,
-        "Z": -3.83
+        "X": -34.25,
+        "Y": 29.5,
+        "Z": -4.3
       },
-      "GroundSuspensionDistance": -1.966436
+      "GroundSuspensionDistance": -1.312904
     }
   },
   "Cars": [
-    "Formula 1 2021",
-    "Formula 1 2022"
+    "Psyclops"
   ]
 }

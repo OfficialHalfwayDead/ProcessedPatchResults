@@ -1,78 +1,73 @@
 {
   "HitboxSize": {
-    "X": 127.019188,
-    "Y": 82.187866,
-    "Z": 34.159072
+    "X": 120.72023,
+    "Y": 76.710312,
+    "Z": 41.659072
   },
   "HitboxOffset": {
-    "X": 13.87566,
+    "X": 11.37566,
     "Y": 0,
-    "Z": 20.754988
+    "Z": 21.504988
   },
   "GroundRotation": {
-    "yaw": 0.00034543623752984184,
-    "pitch": 0.5499267350097341,
-    "roll": 0.00034543623752984184,
+    "yaw": 0.000342945727892732,
+    "pitch": -0.27731182463993514,
+    "roll": 0.000342945727892732,
     "degrees": true
   },
   "GroundLocation": {
-    "X": 0.18,
+    "X": -0.1,
     "Y": 0,
-    "Z": 17.01
+    "Z": 18.779999
   },
   "Wheels": {
     "FrontLeft": {
-      "Radius": 12.5,
+      "Radius": 15,
       "LocationOffset": {
         "X": 51.25,
         "Y": -25.9,
         "Z": -6
       },
-      "GroundSuspensionDistance": -1.981241
+      "GroundSuspensionDistance": -1.971912
     },
     "FrontRight": {
-      "Radius": 12.5,
+      "Radius": 15,
       "LocationOffset": {
         "X": 51.25,
         "Y": 25.9,
         "Z": -6
       },
-      "GroundSuspensionDistance": -1.980957
+      "GroundSuspensionDistance": -1.971632
     },
     "BackLeft": {
       "Radius": 15,
       "LocationOffset": {
-        "X": -34,
+        "X": -33.75,
         "Y": -29.5,
-        "Z": -4.3
+        "Z": -5.6
       },
-      "GroundSuspensionDistance": -1.96306
+      "GroundSuspensionDistance": -1.983258
     },
     "BackRight": {
       "Radius": 15,
       "LocationOffset": {
-        "X": -34,
+        "X": -33.75,
         "Y": 29.5,
-        "Z": -4.3
+        "Z": -5.6
       },
-      "GroundSuspensionDistance": -1.962738
+      "GroundSuspensionDistance": -1.982942
     }
   },
   "Cars": [
-    "X-Devil",
-    "Venom",
-    "X-Devil Mk2",
-    "Esper",
-    "Endo",
-    "Jäger 619",
-    "Fast & Furious Nissan Skyline",
-    "Nimbus",
-    "Insidio",
-    "Tygris",
-    "R3MX",
-    "R3MX GXT",
-    "Fast & Furious Pontiac Fiero",
-    "Nissan Silvia",
-    "Nissan Silvia RLE"
+    "Sweet Tooth",
+    "Merc",
+    "Battle Bus",
+    "Nomad",
+    "Nomad GXT",
+    "Ford Bronco Raptor RLE",
+    "Stampede",
+    "Behemoth",
+    "Turtle Van",
+    "Jeep Wrangler Rubicon"
   ]
 }

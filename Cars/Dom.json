@@ -1,0 +1,68 @@
+{
+  "Name": "Dom",
+  "ID": "-1",
+  "HitboxSize": {
+    "X": "0.00",
+    "Y": "0.00",
+    "Z": "0.00"
+  },
+  "HitboxOffset": {
+    "X": "0.00",
+    "Y": "0.00",
+    "Z": "0.00"
+  },
+  "MeshOffset": {
+    "X": "0.00",
+    "Y": "0.00",
+    "Z": "0.00"
+  },
+  "GroundRotation": {
+    "yaw": "0.00",
+    "pitch": "0.00",
+    "roll": "0.00",
+    "degrees": true
+  },
+  "GroundLocation": {
+    "X": "0.00",
+    "Y": "0.00",
+    "Z": "0.00"
+  },
+  "Wheels": {
+    "FrontLeft": {
+      "Radius": "0.00",
+      "LocationOffset": {
+        "X": "0.00",
+        "Y": "0.00",
+        "Z": "0.00"
+      },
+      "GroundSuspensionDistance": "0.00"
+    },
+    "FrontRight": {
+      "Radius": "0.00",
+      "LocationOffset": {
+        "X": "0.00",
+        "Y": "0.00",
+        "Z": "0.00"
+      },
+      "GroundSuspensionDistance": "0.00"
+    },
+    "BackLeft": {
+      "Radius": "0.00",
+      "LocationOffset": {
+        "X": "0.00",
+        "Y": "0.00",
+        "Z": "0.00"
+      },
+      "GroundSuspensionDistance": "0.00"
+    },
+    "BackRight": {
+      "Radius": "0.00",
+      "LocationOffset": {
+        "X": "0.00",
+        "Y": "0.00",
+        "Z": "0.00"
+      },
+      "GroundSuspensionDistance": "0.00"
+    }
+  }
+}
