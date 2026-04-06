@@ -19,7 +19,7 @@
   "GroundRotation": {
     "yaw": "0.00",
     "pitch": "-1.13",
-    "roll": "0.00",
+    "roll": "-0.01",
     "degrees": true
   },
   "GroundLocation": {
@@ -31,17 +31,17 @@
     "FrontLeft": {
       "Radius": "15.00",
       "LocationOffset": {
-        "X": "51.24",
-        "Y": "-25.92",
+        "X": "51.28",
+        "Y": "-26.46",
         "Z": "-5.97"
       },
-      "GroundSuspensionDistance": "-1.96"
+      "GroundSuspensionDistance": "-1.95"
     },
     "FrontRight": {
       "Radius": "15.00",
       "LocationOffset": {
-        "X": "51.24",
-        "Y": "25.92",
+        "X": "51.28",
+        "Y": "26.11",
         "Z": "-5.97"
       },
       "GroundSuspensionDistance": "-1.96"
@@ -49,8 +49,8 @@
     "BackLeft": {
       "Radius": "15.00",
       "LocationOffset": {
-        "X": "-34.29",
-        "Y": "-29.53",
+        "X": "-34.32",
+        "Y": "-29.39",
         "Z": "-4.32"
       },
       "GroundSuspensionDistance": "-1.99"
@@ -58,11 +58,11 @@
     "BackRight": {
       "Radius": "15.00",
       "LocationOffset": {
-        "X": "-34.29",
-        "Y": "29.53",
+        "X": "-34.32",
+        "Y": "29.39",
         "Z": "-4.32"
       },
-      "GroundSuspensionDistance": "-1.99"
+      "GroundSuspensionDistance": "-2.00"
     }
   }
 }
